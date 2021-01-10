@@ -1,0 +1,10 @@
+Assignment1
+- Google search on why implicit wait should not be used with explicit wait
+
+Assignment2
+- Use explicit wait instead of implicit in all your past assignments
+
+Assignments for explicit wait
+- Mother of all assignments
+
+
