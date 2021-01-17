@@ -8,4 +8,4 @@ Assignments for explicit wait
 - Mother of all assignments
 
 added
-
+#Below is to quit the browser
